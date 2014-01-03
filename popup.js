@@ -8,7 +8,7 @@
  *
  * @type {string}
  */
-var QUERY = 'github';
+var QUERY = 'super meat boy';
 
 var kittenGenerator = {
   /**
